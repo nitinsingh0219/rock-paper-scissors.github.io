@@ -1,6 +1,7 @@
-# Rock Paper Scissors Game
+# [Rock Paper Scissors Game](URL)
 
 ## Demo
+![Demo](images/Demo.png)
 
 
 ## Introduction
