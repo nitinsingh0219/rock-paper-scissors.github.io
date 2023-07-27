@@ -1,4 +1,4 @@
-# [Rock Paper Scissors Game](URL)
+# [Rock Paper Scissors Game](https://nitinsingh0219.github.io/rock-paper-scissors.github.io/)
 
 ## Demo
 ![Demo](images/Demo.png)
